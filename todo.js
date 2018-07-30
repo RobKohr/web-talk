@@ -1,4 +1,4 @@
-These are general tasks that are not related to any block of code
+//These are general tasks that are not related to any block of code
 
 
 //TODO: x 2018-07-30 Initialize Repo
