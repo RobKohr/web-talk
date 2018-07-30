@@ -1,5 +1,6 @@
 //These are general tasks that are not related to any block of code
 
+//TODO: Lets make a task and delete it!
 //DONE: Another random task +tag id:14
 //   
 // ----
