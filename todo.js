@@ -6,7 +6,7 @@
 // <https://github.com/RobKohr/web-talk/issues/19>
 // RobKohr
 // spam@robkohr.com
-//TODO: Test How about this +some-random-tag id:12
+//DONE: Test How about this +some-random-tag id:12
 //   
 // ----
 // <https://github.com/RobKohr/web-talk/issues/15>
