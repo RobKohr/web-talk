@@ -19,7 +19,7 @@ imdone-help
  Atlas TheGolden
  atlas@imdone.io
 
-#HELP: Add tags to your comments like this `+mvp` +imdone-help id:3
+#DONE: Add tags to your comments like this `+mvp` +imdone-help id:3
  ----
  <https://github.com/RobKohr/web-talk/issues/4>
  Atlas TheGolden
