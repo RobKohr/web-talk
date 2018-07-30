@@ -5,7 +5,7 @@ imdone-help
  <https://github.com/RobKohr/web-talk/issues/1>
  Atlas TheGolden
  atlas@imdone.io
-#HELP: Ignore files by adding `.imdoneignore` to the root of your project. +imdone-help id:4
+#DONE: Ignore files by adding `.imdoneignore` to the root of your project. +imdone-help id:4
  - [imdone.io](https://imdone.io) implements this with the [ignore package](https://www.npmjs.com/package/ignore)
  ----
  <https://github.com/RobKohr/web-talk/issues/5>
