@@ -12,7 +12,7 @@ imdone-help
  Atlas TheGolden
  atlas@imdone.io
 
-#HELP: Use markdown in todo comments or in the description +imdone-help id:2
+#DONE: Use markdown in todo comments or in the description +imdone-help id:2
  - **This is a description...**
  ----
  <https://github.com/RobKohr/web-talk/issues/3>
