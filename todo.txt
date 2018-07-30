@@ -1,0 +1,12 @@
+These are general tasks that are not related to any block of code
+
+
+//TODO: x 2018-07-30 Initialize Repo
+//TODO: 2018-07-30 Checkout repo on local and tweak .gitignore
+//TODO: 2018-07-30 Create SCSS and html layout based on the paper based sketches
+//TODO: 2018-07-30 Setup React, node, immutable, bla bla bla
+//TODO: 2018-07-30 Get react to render the basic layout
+//TODO: 2018-07-30 Create tests for following  
+// - Creating a group and a room.
+// - Updating/sending message text into room
+// - Updating the room list with count of unread message threads
