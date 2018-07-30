@@ -1,32 +1,9 @@
 {
-  "noHelp": true,
-  "sync": {
-    "useImdoneioForPriority": true,
-    "name": "RobKohr/web-talk",
-    "id": "5b5fa0893480d519c809522a"
-  },
-  "marked": {
-    "langPrefix": "language-",
-    "smartLists": true,
-    "pedantic": false,
-    "breaks": false,
-    "tables": true,
-    "gfm": true
-  },
-  "lists": [
-    {
-      "hidden": false,
-      "name": "HELP"
-    },
-    {
-      "name": "TODO",
-      "hidden": false
-    },
-    {
-      "name": "DONE",
-      "hidden": false
-    }
+  "exclude": [
+    "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed|imdone-export.json)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
   ],
+  "watcher": true,
+  "keepEmptyPriority": true,
   "code": {
     "include_lists": [
       "TODO",
@@ -45,9 +22,32 @@
       "HELP"
     ]
   },
-  "keepEmptyPriority": true,
-  "watcher": true,
-  "exclude": [
-    "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed|imdone-export.json)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
-  ]
+  "lists": [
+    {
+      "hidden": false,
+      "name": "HELP"
+    },
+    {
+      "name": "TODO",
+      "hidden": false
+    },
+    {
+      "name": "DONE",
+      "hidden": false
+    }
+  ],
+  "marked": {
+    "langPrefix": "language-",
+    "smartLists": true,
+    "pedantic": false,
+    "breaks": false,
+    "tables": true,
+    "gfm": true
+  },
+  "sync": {
+    "useImdoneioForPriority": true,
+    "name": "RobKohr/web-talk",
+    "id": "5b5fa0893480d519c809522a"
+  },
+  "noHelp": true
 }
