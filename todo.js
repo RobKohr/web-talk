@@ -1,7 +1,12 @@
 //These are general tasks that are not related to any block of code
 
 
-//TODO: Test +some-random-tag
+//TODO: Test +some-random-tag id:12
+//   
+// ----
+// <https://github.com/RobKohr/web-talk/issues/15>
+// RobKohr
+// spam@robkohr.com
 //TODO: x 2018-07-30 Initialize Repo id:7
 //   
 // ----
