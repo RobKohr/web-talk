@@ -1,6 +1,6 @@
 imdone-help
 ====
-#HELP: Try dragging this card to your new list +imdone-help id:0
+#DONE: Try dragging this card to your new list +imdone-help id:0
  ----
  <https://github.com/RobKohr/web-talk/issues/1>
  Atlas TheGolden
