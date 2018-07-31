@@ -1,1 +1,5 @@
-#TODO: Read that fine manpage on the imdone-core 
+#TODO: Read that fine manpage on the imdone-core id:19
+ ----
+ <https://github.com/RobKohr/web-talk/issues/30>
+ RobKohr
+ spam@robkohr.com
