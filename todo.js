@@ -1,11 +1,5 @@
 //These are general tasks that are not related to any block of code
 
-//TODO: Lets make a task and delete it id:15
-//   
-// ----
-// <https://github.com/RobKohr/web-talk/issues/21>
-// RobKohr
-// spam@robkohr.com
 
 //DONE: Another random task +tag id:14
 //   
